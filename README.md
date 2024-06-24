@@ -1,3 +1,5 @@
+https://app.powerbi.com/links/e_Cd99JHC2?ctid=41731024-b886-4982-b789-eb33b1ffb746&pbi_source=linkShare
+
 I developed an interactive and insightful dashboard for an e-commerce store! 🛒 This project highlights my ability to transform raw data into valuable business intelligence. Here’s a glimpse of what I accomplished:
 
 1. **Sales Analysis**: Visualized total sales, revenue trends, and average order value to track business performance over time. 📈
